@@ -26,7 +26,7 @@
   
   .backContainer {
     background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-      url("https://drive.google.com/uc?export=view&id=1KVDapld513gDp4XOaLft0qfmeyxhszdV");
+      url("./images/heroBackground.jpg");
     background-repeat: no-repeat;
     background-position: top right;
     background-size: cover;
